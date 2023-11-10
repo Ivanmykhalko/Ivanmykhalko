@@ -15,6 +15,7 @@
     </div>
 
 <br>
+
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
 <a href="https://www.linkedin.com/in/ivan-mykhalko/" target="blank" >
 
