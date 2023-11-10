@@ -1,3 +1,4 @@
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=700&lines=Hello+World!)](https://git.io/typing-svg)
 <div align="right" >
  
@@ -14,6 +15,10 @@
     </div>
 
 <br>
+## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45" height="35">
+<a href="https://www.linkedin.com/in/ivan-mykhalko/" target="blank" >
+
+
 
 ## ⚡ Languages & Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
